@@ -1,0 +1,604 @@
+documento_idx,entidade,label,sentimento
+6699,Gostei,LOC,positivo
+8528,Comprei,PER,negativo
+794,Pedido,PER,positivo
+794,Recomendo,ORG,positivo
+10479,Super,LOC,positivo
+8583,Produto,LOC,negativo
+10962,Tenho,PER,negativo
+7828,Saia Box,MISC,negativo
+7828,Cama Casal King Perola,MISC,negativo
+7828,Lese Tecido Microfibra - Branco,PER,negativo
+7828,Saia Para Cama Box Casal King Perolla,MISC,negativo
+8332,Produto Velho  Produto Velho,LOC,positivo
+8099,DEU CERTO,MISC,positivo
+8099,PRODUTO,ORG,positivo
+6508,Nao,MISC,negativo
+9731,Ótima,PER,positivo
+12527,Satisfeito,MISC,positivo
+5163,Prazo,MISC,neutro
+6206,Ótimo,LOC,negativo
+6206,Correios,MISC,negativo
+5589,Otima Parabéns,PER,positivo
+9807,bom bom,LOC,positivo
+2184,Ótimo,LOC,positivo
+11233,Gostei,LOC,positivo
+9834,baratheon,LOC,positivo
+2417,Frete,LOC,positivo
+2417,Entrega,MISC,positivo
+2417,Recomendo,ORG,positivo
+6480,NADA,ORG,negativo
+14583,Comprei o Boneco,PER,negativo
+14583,Mario Bros,MISC,negativo
+14583,Boneco Mario Bros Fire,MISC,negativo
+13816,Top Tudo,MISC,positivo
+736,Gostei,LOC,positivo
+736,Obrigada,LOC,positivo
+9923,Eu adquiri 2,MISC,positivo
+9923,NFe,MISC,positivo
+12054,Produto Horrível,PER,negativo
+1056,DHEA,ORG,positivo
+1056,Recomendo!,MISC,positivo
+1061,Super,MISC,positivo
+5421,Super,MISC,positivo
+8265,Amei,PER,positivo
+9085,FALSIFICADO,ORG,negativo
+9085,RECEBI UM PRODUTO F-A-L-S-I-F-I-C-A-D-O. Ñ SABE NEM DISFARÇAR,MISC,negativo
+9085,TOTALMENTE DIFERENTE DO ORIGINAL,MISC,negativo
+9085,RESOLVER MEU PROBLEMA,MISC,negativo
+9085,NÃO CONSIGO TROCAR,MISC,negativo
+9085,REEMBOLSO,ORG,negativo
+2554,Mercadoria,LOC,positivo
+2554,Parabéns!!,MISC,positivo
+13920,Tentei,PER,negativo
+3679,Bom Barato,LOC,neutro
+8781,Prazo,MISC,positivo
+7877,Recomendo,LOC,positivo
+9296,Quero,MISC,negativo
+12306,medi,PER,positivo
+2619,super,LOC,positivo
+4614,Gostei,LOC,positivo
+3025,RECEBI,MISC,negativo
+3025,PRODUTO,ORG,negativo
+3025,FUNCIONANDO,MISC,negativo
+3025,DEIXEI VARIAS HORAS CARREGANDO,MISC,negativo
+3025,NÃO ACENDE NENHUMA LUZ,ORG,negativo
+9545,Bom,LOC,neutro
+3087,Parabéns,PER,positivo
+3087,Recomendo 😉😉😉,PER,positivo
+7672,RAPIDEZ,MISC,positivo
+7672,RAPIDEZ,MISC,positivo
+11839,Ótimo,LOC,positivo
+9733,Recebi,MISC,positivo
+9733,Recomeço,PER,positivo
+2473,Pro Life,MISC,positivo
+1533,Parabéns!,MISC,positivo
+8014,Perdi,PER,negativo
+8014,aborreci,LOC,negativo
+8014,Correio,MISC,negativo
+8014,Natal,MISC,negativo
+5938,Super,MISC,positivo
+4115,Nota Fiscal,LOC,negativo
+11514,Recomendo Produto,PER,positivo
+88,Perfeitos😁,MISC,positivo
+12528,Parabéns!,MISC,positivo
+2927,Muita,LOC,positivo
+1139,Quero,MISC,positivo
+10692,Bom Tudo,LOC,positivo
+903,lannister,LOC,positivo
+5664,Satisfeito OK,MISC,neutro
+7665,Gostei,LOC,negativo
+11495,Atenciosos,LOC,positivo
+1747,Parabéns,PER,positivo
+13096,Quero,PER,negativo
+12192,Produto,LOC,positivo
+8037,Venho,LOC,negativo
+862,Otima,LOC,positivo
+9430,Ótimo Perfeito,PER,positivo
+6399,Recomendaria,LOC,positivo
+6399,Gostei,LOC,positivo
+6399,Inovamaq,LOC,positivo
+14893,Vendedor,PER,positivo
+13763,Enviei,LOC,negativo
+251,Agilidade Chegou,PER,positivo
+6791,Amei,PER,positivo
+12104,Ótimo Adorei,PER,positivo
+8416,Comprei,LOC,negativo
+8416,targaryen,LOC,negativo
+357,Maravilhoso!,MISC,positivo
+357,Super,MISC,positivo
+14603,Confuso  Fiz,MISC,negativo
+13126,ADOREIIII VOU COMPRAR,ORG,positivo
+1743,amei super,PER,positivo
+8348,Bom,LOC,neutro
+930,Prefiro,PER,positivo
+11601,bom,LOC,positivo
+3753,pedi 03 unidades,MISC,neutro
+6661,Correu,LOC,positivo
+387,Otima,LOC,positivo
+476,Comprei,PER,negativo
+2069,Comprei,PER,positivo
+4046,Super,MISC,positivo
+5125,Ótima Qualidade,PER,positivo
+7251,Prazo,MISC,positivo
+1769,10 Adorei,LOC,positivo
+1769,SuperRecomendo,MISC,positivo
+8610,Adorei,PER,positivo
+6586,Ótimo Rápido,PER,positivo
+4304,AMASSADA,ORG,negativo
+10155,Gostei,LOC,positivo
+8247,Amei,PER,positivo
+8247,Adorei,PER,positivo
+99,Super,LOC,positivo
+99,Entrega,LOC,positivo
+5512,Elogiável,PER,positivo
+8868,Adorei!!,MISC,positivo
+8868,lannister,LOC,positivo
+8868,targaryen de parabéns!!,LOC,positivo
+12376,Perfeito,LOC,positivo
+4767,otima,LOC,positivo
+6156,Linda,PER,positivo
+3334,gostei,LOC,positivo
+2894,Vieram,PER,negativo
+14671,Adorei,PER,positivo
+487,Entrega,LOC,positivo
+3297,Recomendo,LOC,positivo
+6186,Gostei,LOC,positivo
+2499,Comprei Balde Da Original Recebi Balde da Antártica Boa,MISC,negativo
+6473,Super,MISC,positivo
+6473,Entrega,LOC,positivo
+9712,Gostei,LOC,positivo
+1579,Frete,LOC,neutro
+14168,ENORME NA ENTREGA A,MISC,negativo
+13722,boa  top,LOC,positivo
+4105,Amei,PER,positivo
+4832,Pedido,PER,negativo
+1039,Kit,PER,positivo
+286,super,LOC,positivo
+286,Otimo,PER,positivo
+11492,Mercadoria,LOC,positivo
+3684,Bom,LOC,positivo
+14650,Recomendo,LOC,positivo
+5703,super,LOC,positivo
+5703,Atendimento,LOC,positivo
+9772,Matel,LOC,negativo
+4860,Bom Ótimo,LOC,positivo
+1213,Amanhã,PER,negativo
+11814,Produto,PER,negativo
+8559,Limpa Vidro Com Imã Magnético Super,LOC,negativo
+1688,super,LOC,positivo
+1688,Recebi,PER,positivo
+2680,👌 Obrigado,PER,positivo
+4442,Super,MISC,positivo
+8955,Parabéns,PER,positivo
+2478,Sugiro,LOC,negativo
+6215,Parabéns,LOC,positivo
+8544,targaryen,LOC,negativo
+3455,Parabéns!!!,ORG,positivo
+9124,Parabéns,PER,positivo
+4716,SUPER RECOMENDO Produto,MISC,positivo
+10712,Ótimo,LOC,positivo
+2471,Voltarei,PER,positivo
+12870,Gostei,LOC,positivo
+6498,Produto Bom Apenas,LOC,positivo
+11448,Compra,LOC,positivo
+9470,Nao,MISC,negativo
+7293,Amei,PER,positivo
+7377,Bom,LOC,positivo
+7377,Confesso,PER,positivo
+7377,Gostei,PER,positivo
+7377,Recomendo,LOC,positivo
+5502,Serviço Ruim Fiquei,LOC,negativo
+5502,cuba,LOC,negativo
+12224,Adorei,PER,positivo
+12224,Lojas,LOC,positivo
+10474,Valeu,PER,positivo
+9615,otima,LOC,positivo
+6723,Ótimo,LOC,positivo
+12983,Super,LOC,positivo
+12983,Rápida,LOC,positivo
+7562,Ótimo!  Lindo,MISC,positivo
+7562,Recomendo,LOC,positivo
+10620,recife,LOC,negativo
+10620,são paulo,LOC,negativo
+1611,Bom Confiavel,LOC,positivo
+14614,Super,MISC,positivo
+7492,Comprei,LOC,negativo
+13946,Bonito,LOC,neutro
+11226,Gostei,LOC,positivo
+9926,Recomendo Entrega,PER,positivo
+13256,Otimo Deu,PER,positivo
+14690,ameii,LOC,positivo
+1768,Ótima,LOC,positivo
+10299,Otimo Produto,PER,positivo
+14366,Ótimo,LOC,positivo
+10464,Ótima,PER,positivo
+8180,Gostei,LOC,positivo
+2323,CARTEIRA...ESTOU ESPERANDO,MISC,positivo
+2323,OUTRO,MISC,positivo
+2323,PRODUTO,ORG,positivo
+2323,OBRIGADA,ORG,positivo
+4397,NENHUM,ORG,negativo
+10351,"O kit bolsas 
+O kit",MISC,positivo
+4089,Comprei 4 toners,MISC,negativo
+4089,Tonerbras,LOC,negativo
+14180,Queria,LOC,positivo
+7838,Adorei,PER,positivo
+9239,Enganação,LOC,negativo
+9239,IRON GYM,ORG,negativo
+9239,Exijo,PER,negativo
+9938,Bom Ótimo,LOC,positivo
+3887,Ótimo,LOC,positivo
+5736,Motorola,ORG,negativo
+8883,Comprei,PER,neutro
+3043,Amei,PER,positivo
+11102,Gostei,LOC,positivo
+11102,amei!!!,MISC,positivo
+10667,Paguei,PER,neutro
+9193,100  Ótima,MISC,positivo
+1270,Produto bom Recebi,LOC,neutro
+2714,Mochila,PER,positivo
+2714,Envio,PER,positivo
+12041,Ótimo,LOC,positivo
+2301,Parabéns,LOC,positivo
+4556,Otimo  Organização,ORG,positivo
+4556,Bom,LOC,positivo
+4556,Parabéns,LOC,positivo
+7402,Amei,PER,positivo
+8976,Postagem  Entrega,MISC,neutro
+6114,Produto entregue,MISC,positivo
+7573,Gostei,LOC,positivo
+2288,Tentei,PER,neutro
+9922,Gostei,LOC,positivo
+11545,Recomendo!,MISC,positivo
+836,Arrependida,LOC,negativo
+3545,super,MISC,positivo
+7467,Entrega,LOC,positivo
+8736,Ótima,PER,positivo
+8736,Amei,PER,positivo
+7971,Amassado,LOC,negativo
+9824,bom Adorei,LOC,positivo
+4139,Tapete Coroa,PER,neutro
+4139,Tapete Formato Margarida Petala,PER,neutro
+4139,Rosa Guga Tapetes,PER,neutro
+4139,Nota Fiscal,LOC,neutro
+8060,Parebens,MISC,positivo
+9148,comprei,LOC,negativo
+9148,12AL,MISC,negativo
+290,super,LOC,positivo
+708,Satisfatória,LOC,positivo
+8565,internet,MISC,negativo
+6475,Previsão,LOC,positivo
+9050,Copom,LOC,negativo
+9060,Entregou,PER,positivo
+13748,Otimo Produto,PER,positivo
+3669,Serviço,MISC,positivo
+4972,Parabéns,PER,positivo
+6669,Satisfeita! Tudo,MISC,positivo
+14501,unica ressalva,LOC,negativo
+13350,super,LOC,positivo
+5608,RECOMENDO Ótima,MISC,positivo
+5608,Recomendo!,MISC,positivo
+10530,Recomendo Recebimento,PER,positivo
+1697,Entrega,LOC,negativo
+13907,Gostei,LOC,positivo
+14901,Foto,PER,negativo
+14901,Foto,PER,negativo
+1889,Cancelei,PER,negativo
+1889,Fico,PER,negativo
+1889,Att,ORG,negativo
+12140,Absurdo,LOC,negativo
+468,Super chateada,MISC,negativo
+7732,Adorei,PER,positivo
+1402,Rápida,LOC,positivo
+1402,Pratico,LOC,positivo
+7884,Gostei Cumpre,PER,positivo
+13770,CONFORME ANUNCIADO,MISC,positivo
+5216,PERFEITA,PER,positivo
+5216,LACRADO,MISC,positivo
+5216,RECOMENDADO!,MISC,positivo
+7584,otima,LOC,positivo
+13199,Linda,PER,positivo
+13199,Preço,PER,positivo
+1598,ORIGINAL,PER,negativo
+12724,E LINDA,ORG,positivo
+9149,super,LOC,positivo
+27,Suspense Fiz,MISC,neutro
+6486,Recomendo,LOC,positivo
+2319,NÃO RECOMENDARIA,MISC,negativo
+2319,PRODUTO NÃO VEIO,MISC,negativo
+2319,COR AZUL,MISC,negativo
+2319,SIM NA BRANCA,MISC,negativo
+2319,A COR DESEJADA,MISC,negativo
+14513,ok Boa,LOC,positivo
+14902,Super,MISC,positivo
+11343,bom,LOC,neutro
+1744,Comprei,LOC,positivo
+1744,Entrega,LOC,positivo
+1744,Recomendo,PER,positivo
+4848,Prático,LOC,positivo
+4914,Nao,MISC,negativo
+5537,Ótimo,LOC,positivo
+4702,ÓTIMO,LOC,positivo
+4702,PRODUTO,ORG,positivo
+3165,Regular,LOC,negativo
+3165,Mercadoria,LOC,negativo
+5474,Parabéns,PER,positivo
+2676,Pino,PER,neutro
+5327,Qualidade,PER,neutro
+2543,Relógio,PER,positivo
+2543,Amei,PER,positivo
+12062,Comprei,LOC,negativo
+6101,Amei,PER,positivo
+6101,Super,MISC,positivo
+12595,Site,PER,positivo
+11737,Recomendo Produto,PER,positivo
+13248,Parabéns as Lojas,MISC,positivo
+3207,super,LOC,positivo
+4342,Comprei,LOC,negativo
+4342,Tapete flash G borracha Pvc TVolkswagen,MISC,negativo
+4342,Tapete,PER,negativo
+10025,Correios,LOC,positivo
+14277,Recomendo,LOC,positivo
+14277,Recomendo,LOC,positivo
+1748,Ótimo,LOC,positivo
+10066,Pedi,PER,negativo
+1953,Ótimo,LOC,positivo
+10242,TUDO OK,MISC,positivo
+4301,Comprei,LOC,negativo
+4301,Devolvi,PER,negativo
+6580,RECOMENDO RECEBI,LOC,negativo
+6580,PRODUTO,ORG,negativo
+6580,AO VERIFICAR CONSTATEI,MISC,negativo
+6580,PRODUTO ERA,MISC,negativo
+6580,EFETUEI,MISC,negativo
+6580,COMPRA,ORG,negativo
+6580,SOLICITEI,MISC,negativo
+6580,DEVOLUÇÃO,ORG,negativo
+6580,O ENVIO,MISC,negativo
+6580,PRODUTO CORRETO,ORG,negativo
+6580,ATÉ AGORA,ORG,negativo
+6580,OBTIVE RESPOSTA,ORG,negativo
+11500,Comprei,LOC,negativo
+19,Comprei,PER,negativo
+19,Brasil,LOC,negativo
+13182,pelicula levei,ORG,negativo
+1323,PEÇAS!!!!!  Produto,MISC,negativo
+8704,Ótimo  Muito,LOC,positivo
+5508,Ótimo,LOC,positivo
+4600,Pedi,ORG,negativo
+11791,entrega,LOC,positivo
+2662,Amei,PER,positivo
+11804,Entrega,LOC,positivo
+2802,Super,MISC,positivo
+9639,ótimo!,MISC,positivo
+9272,Nao,MISC,negativo
+8538,Mto,PER,positivo
+8538,Adorei,PER,positivo
+12517,Super,MISC,positivo
+218,Recomendo Tudo,MISC,positivo
+5050,Bolsa linda amei!!,ORG,positivo
+3325,Brastemp,LOC,neutro
+1053,Comprei,LOC,negativo
+7258,Lojas,LOC,positivo
+4685,Adquiri 2 Suportes,MISC,negativo
+4685,Transbike,LOC,negativo
+4685,Aro 29,MISC,negativo
+4685,Suporte De Parede Para Sua Bicicleta Atrio,ORG,negativo
+1107,NADA DO,MISC,negativo
+1107,COMPREI,MISC,negativo
+1107,ENTREGUE UM PRODUTO DE OUTRA MARCA,MISC,negativo
+1107,O PRAZO NÃO,MISC,negativo
+1107,CUMPRIDO,MISC,negativo
+1107,FRETE CARO,MISC,negativo
+1107,ENFIM,MISC,negativo
+1107,DESASTRE,ORG,negativo
+12093,Comprei 2,MISC,positivo
+13529,Sim,PER,neutro
+3101,Correios,LOC,negativo
+3101,Correios,LOC,negativo
+6503,Pedi,ORG,negativo
+6503,Pessimima,LOC,negativo
+2337,Domingo!!,MISC,positivo
+3886,Comprar,MISC,positivo
+9123,Comprei 2,MISC,neutro
+5099,Comprei,PER,positivo
+5099,Lemon Lime,PER,positivo
+1086,Gostei,LOC,positivo
+14005,bom Gostei,LOC,neutro
+907,Comprei,PER,negativo
+5381,Gostei Ótimo,PER,positivo
+3143,super,LOC,positivo
+1516,Recomendo!,MISC,positivo
+10920,RECOMENDO,ORG,positivo
+10920,PRODUTO,ORG,positivo
+10923,Ótimo,LOC,positivo
+5527,Rápida,LOC,positivo
+5527,Gostei,LOC,positivo
+3115,SOBRE,ORG,positivo
+3115,CORTINA ÓTIMA,ORG,positivo
+8998,EU ACHEI LINDO MAIS,MISC,negativo
+8998,FAZEM UM POTE,MISC,negativo
+8998,ARROZ,MISC,negativo
+8998,A DESEJAR,MISC,negativo
+8998,GOSTARIA DE DEVOLVER,MISC,negativo
+7708,Ótimo,PER,positivo
+7708,Ótima,PER,positivo
+2626,Gostei!!,MISC,positivo
+10685,Aguardo,LOC,negativo
+373,Informação\preocupada Minha,MISC,negativo
+373,Juliana,LOC,negativo
+4800,Ótimo,LOC,positivo
+14431,Entrega,LOC,positivo
+14351,Ótimo,LOC,positivo
+4779,Compra,LOC,negativo
+12773,Quero,LOC,negativo
+12193,off White,PER,negativo
+6921,super,MISC,positivo
+9921,CHEGOU ERRADO,MISC,negativo
+9921,FALTANDO UM ITEM,ORG,negativo
+9921,PAGUEI,MISC,negativo
+9921,RECEBI SOMENTE UM,MISC,negativo
+9921,AGUARDO,MISC,negativo
+9921,URGENTE!!,MISC,negativo
+3652,Tentei,PER,neutro
+5290,Mias de 1,MISC,negativo
+5290,Solicito,LOC,negativo
+10758,GOSTEI MUITO,MISC,positivo
+10758,OTIMO,ORG,positivo
+4843,Ótimo,LOC,positivo
+11431,Obrigado,LOC,positivo
+8621,Respeito,PER,negativo
+8621,Péssimo,LOC,negativo
+5794,Otimo Serviços,PER,positivo
+3315,Recomendo  Recomendo,MISC,positivo
+2453,Defeito,PER,positivo
+10186,Super,MISC,positivo
+10186,Ótimo,LOC,positivo
+2366,Surpresa Excelente Super Recomento,MISC,positivo
+2366,Parabéns,LOC,positivo
+385,Pedido,PER,positivo
+13189,Ótimo Tudo,PER,positivo
+7524,Uahlll,LOC,positivo
+7524,Adorei,PER,positivo
+10879,Feliz Recomendo,LOC,positivo
+1310,Ruim Pedido,LOC,negativo
+1310,Comprei,PER,negativo
+11838,GOSTEI,ORG,positivo
+11838,ATENDIMENTO,ORG,positivo
+11838,RECOMENDO!!,MISC,positivo
+7712,Bom Bom,LOC,positivo
+8824,Ótima  Tudo,MISC,positivo
+8824,Prazo,MISC,positivo
+9236,Quero,PER,negativo
+9574,Comprei,PER,neutro
+150,Gostei,LOC,positivo
+2805,Recomendo!,MISC,positivo
+3478,vcs,LOC,negativo
+3478,vcs,LOC,negativo
+14720,FALTA,ORG,negativo
+14720,ENTREGA DE UM PNEU,ORG,negativo
+3946,Toner CF 360X HP 508X,ORG,negativo
+3946,ALTO RENDIMENTO,PER,negativo
+3946,Toner CF360A HP 508A,ORG,negativo
+3946,BAIXO RENDIMENTO,LOC,negativo
+5871,bom,LOC,positivo
+5098,Bom,LOC,positivo
+353,Perfeito!,MISC,positivo
+7070,Bonitinho,LOC,neutro
+1418,Adorei,PER,positivo
+10289,ENTREGUE VAZANDO DENTRO,MISC,negativo
+10289,CAIXA NÃO TEM UM,ORG,negativo
+10289,PRODUTO,ORG,negativo
+10289,A ENTREGA,MISC,negativo
+10289,PRAZO,ORG,negativo
+4783,Eficiencia Ótimo,PER,positivo
+1807,perfeito Relógio,LOC,positivo
+6013,Comprei,LOC,negativo
+6013,ABSURDOOO!!,MISC,negativo
+14018,Aguardando,PER,negativo
+3975,Comprei 4,MISC,negativo
+3975,Cadê,PER,negativo
+8354,Gostei,LOC,positivo
+6393,Recomendo Chegou,PER,positivo
+6118,Super,MISC,positivo
+3889,vcs,PER,positivo
+568,Ótima,LOC,positivo
+7729,Ótimo,LOC,positivo
+8000,Queen Size,MISC,negativo
+8000,Elegance,MISC,negativo
+121,Regular  Loja,LOC,positivo
+13436,Super,PER,positivo
+1022,comprei,LOC,neutro
+2531,Veio,MISC,negativo
+3774,Recomendo,LOC,positivo
+12583,ENTREGUE,MISC,neutro
+12583,DEMOROU MUITO,MISC,neutro
+12583,SE PRECISAR,MISC,neutro
+12583,PRODUTO,ORG,neutro
+12583,PEÇA MUITO ANTES...,MISC,neutro
+14287,Recomendo!,MISC,positivo
+79,Produto,PER,positivo
+10663,Plena,PER,positivo
+2678,Comprei,LOC,neutro
+2452,Entrega,LOC,negativo
+2452,Enviei,LOC,negativo
+3429,Recomendo!,MISC,positivo
+8607,Perfeito  Eu,LOC,positivo
+4742,FASE DE TESTES AINDA,MISC,positivo
+10638,Parabéns,PER,positivo
+2966,Falso,PER,negativo
+1454,RAZOÁVEL O,MISC,positivo
+1454,PARCELADO,MISC,positivo
+1454,O CARTÃO,MISC,positivo
+1454,PASSOU,ORG,positivo
+1454,ISSO NÃO COMPRARIA NOVAMENTE,MISC,positivo
+14777,ÓTIMO,LOC,positivo
+14777,PRODUTO,ORG,positivo
+14777,PRAZO,ORG,positivo
+3656,Ótimo O,PER,positivo
+3656,Super,MISC,positivo
+6277,Mochila,PER,positivo
+4010,Bonito,LOC,negativo
+1869,Ótima,PER,positivo
+14821,Comprei,PER,negativo
+14821,estinho flex,MISC,negativo
+14821,Espeto,LOC,negativo
+14522,Ok!,MISC,neutro
+4665,Design,PER,positivo
+7923,targaryen,LOC,negativo
+3275,Mochila,PER,positivo
+7719,RESPONSABILIDADE DE ENTREGA,MISC,negativo
+7719,PRODUTO,ORG,negativo
+7719,VENDEDOR,ORG,negativo
+7719,SE OS CORREIOS ESTÃO,MISC,negativo
+7719,PROBLEMAS,ORG,negativo
+7719,NÃO É CULPA DO COMPRADOR,ORG,negativo
+7719,FILHA,MISC,negativo
+7719,ANIVERSARIO,ORG,negativo
+7719,PAGUE ISSO,MISC,negativo
+9767,Ótimo  Muito,LOC,positivo
+8108,O relógio escolhido,MISC,neutro
+13698,Acredito,LOC,positivo
+13768,Gostei,LOC,positivo
+455,PRODUTO NÃO ENTREGUE,MISC,negativo
+455,MUITO ATRASO E,MISC,negativo
+455,DE UM,MISC,negativo
+455,URGENCIA,ORG,negativo
+8188,Ótima Loja,PER,positivo
+3546,HP3050,MISC,negativo
+12209,Satisfeita Veio,PER,positivo
+6137,okkkkk okkkk,MISC,neutro
+14846,Pruto,PER,negativo
+8904,Acabei,PER,neutro
+3445,Recomendo,LOC,positivo
+12842,Gostei,LOC,positivo
+8119,Comprei,PER,negativo
+4395,Tentei,PER,positivo
+173,Ótimo,LOC,positivo
+9599,super,LOC,positivo
+399,Compro,PER,positivo
+399,Grata,PER,positivo
+399,Elz,PER,positivo
+749,Ótimo,LOC,positivo
+884,Relógio,PER,positivo
+884,Recomendo,ORG,positivo
+102,Super,MISC,positivo
+7303,Gostei,LOC,positivo
+2859,MINHA COZINHA,MISC,positivo
+10932,Gostei,LOC,positivo
+9000,Ótimo,LOC,positivo
+9000,Ótimo,LOC,positivo
+13898,bom  Boa,LOC,positivo
+10335,Vendedor,LOC,positivo
+7159,Indico,PER,positivo
+3328,Super,MISC,positivo
+8962,Fertilizantes,LOC,positivo
+11509,PRODUTO,ORG,negativo
+5040,Chinesa Boa,LOC,positivo
+5040,CHINÊS,ORG,positivo
+5040,FALSO,ORG,positivo
+3502,Adorei,PER,positivo
+5786,Sim Acho,PER,positivo
+1087,Ótimo,LOC,positivo

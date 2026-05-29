@@ -1,0 +1,1435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="tipo" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="negativo">
+      <data key="d0">sentimento</data>
+    </node>
+    <node id="neutro">
+      <data key="d0">sentimento</data>
+    </node>
+    <node id="positivo">
+      <data key="d0">sentimento</data>
+    </node>
+    <node id="entrega">
+      <data key="d0">termo</data>
+    </node>
+    <node id="prazo">
+      <data key="d0">termo</data>
+    </node>
+    <node id="atraso">
+      <data key="d0">termo</data>
+    </node>
+    <node id="produto">
+      <data key="d0">termo</data>
+    </node>
+    <node id="qualidade">
+      <data key="d0">termo</data>
+    </node>
+    <node id="defeito">
+      <data key="d0">termo</data>
+    </node>
+    <node id="embalagem">
+      <data key="d0">termo</data>
+    </node>
+    <node id="troca">
+      <data key="d0">termo</data>
+    </node>
+    <node id="reembolso">
+      <data key="d0">termo</data>
+    </node>
+    <node id="atendimento">
+      <data key="d0">termo</data>
+    </node>
+    <node id="vendedor">
+      <data key="d0">termo</data>
+    </node>
+    <node id="frete">
+      <data key="d0">termo</data>
+    </node>
+    <node id="correio">
+      <data key="d0">termo</data>
+    </node>
+    <node id="transportadora">
+      <data key="d0">termo</data>
+    </node>
+    <node id="rastreio">
+      <data key="d0">termo</data>
+    </node>
+    <node id="demora">
+      <data key="d0">termo</data>
+    </node>
+    <node id="quebrado">
+      <data key="d0">termo</data>
+    </node>
+    <node id="avariado">
+      <data key="d0">termo</data>
+    </node>
+    <node id="errado">
+      <data key="d0">termo</data>
+    </node>
+    <node id="incompleto">
+      <data key="d0">termo</data>
+    </node>
+    <node id="recomendo">
+      <data key="d0">termo</data>
+    </node>
+    <node id="excelente">
+      <data key="d0">termo</data>
+    </node>
+    <node id="bom">
+      <data key="d0">termo</data>
+    </node>
+    <node id="ruim">
+      <data key="d0">termo</data>
+    </node>
+    <node id="satisfeito">
+      <data key="d0">termo</data>
+    </node>
+    <node id="problema">
+      <data key="d0">termo</data>
+    </node>
+    <node id="cancelamento">
+      <data key="d0">termo</data>
+    </node>
+    <node id="devolucao">
+      <data key="d0">termo</data>
+    </node>
+    <node id="nota fiscal">
+      <data key="d0">termo</data>
+    </node>
+    <node id="pagamento">
+      <data key="d0">termo</data>
+    </node>
+    <edge source="negativo" target="produto">
+      <data key="d1">2113</data>
+    </edge>
+    <edge source="negativo" target="prazo">
+      <data key="d1">323</data>
+    </edge>
+    <edge source="negativo" target="demora">
+      <data key="d1">170</data>
+    </edge>
+    <edge source="negativo" target="entrega">
+      <data key="d1">1158</data>
+    </edge>
+    <edge source="negativo" target="frete">
+      <data key="d1">70</data>
+    </edge>
+    <edge source="negativo" target="correio">
+      <data key="d1">173</data>
+    </edge>
+    <edge source="negativo" target="rastreio">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="negativo" target="recomendo">
+      <data key="d1">229</data>
+    </edge>
+    <edge source="negativo" target="ruim">
+      <data key="d1">92</data>
+    </edge>
+    <edge source="negativo" target="nota fiscal">
+      <data key="d1">83</data>
+    </edge>
+    <edge source="negativo" target="troca">
+      <data key="d1">138</data>
+    </edge>
+    <edge source="negativo" target="vendedor">
+      <data key="d1">51</data>
+    </edge>
+    <edge source="negativo" target="defeito">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="negativo" target="devolucao">
+      <data key="d1">85</data>
+    </edge>
+    <edge source="negativo" target="problema">
+      <data key="d1">149</data>
+    </edge>
+    <edge source="negativo" target="excelente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="negativo" target="bom">
+      <data key="d1">131</data>
+    </edge>
+    <edge source="negativo" target="cancelamento">
+      <data key="d1">136</data>
+    </edge>
+    <edge source="negativo" target="atraso">
+      <data key="d1">126</data>
+    </edge>
+    <edge source="negativo" target="errado">
+      <data key="d1">153</data>
+    </edge>
+    <edge source="negativo" target="qualidade">
+      <data key="d1">155</data>
+    </edge>
+    <edge source="negativo" target="avariado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="negativo" target="embalagem">
+      <data key="d1">64</data>
+    </edge>
+    <edge source="negativo" target="quebrado">
+      <data key="d1">58</data>
+    </edge>
+    <edge source="negativo" target="atendimento">
+      <data key="d1">80</data>
+    </edge>
+    <edge source="negativo" target="incompleto">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="negativo" target="reembolso">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="negativo" target="satisfeito">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="negativo" target="transportadora">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="negativo" target="pagamento">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="neutro" target="produto">
+      <data key="d1">573</data>
+    </edge>
+    <edge source="neutro" target="correio">
+      <data key="d1">84</data>
+    </edge>
+    <edge source="neutro" target="bom">
+      <data key="d1">207</data>
+    </edge>
+    <edge source="neutro" target="qualidade">
+      <data key="d1">65</data>
+    </edge>
+    <edge source="neutro" target="defeito">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="neutro" target="frete">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="neutro" target="atendimento">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="neutro" target="vendedor">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="neutro" target="nota fiscal">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="neutro" target="avariado">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="neutro" target="entrega">
+      <data key="d1">295</data>
+    </edge>
+    <edge source="neutro" target="quebrado">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="neutro" target="devolucao">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="neutro" target="troca">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="neutro" target="prazo">
+      <data key="d1">172</data>
+    </edge>
+    <edge source="neutro" target="recomendo">
+      <data key="d1">94</data>
+    </edge>
+    <edge source="neutro" target="cancelamento">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="neutro" target="embalagem">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="neutro" target="errado">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="neutro" target="satisfeito">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="neutro" target="demora">
+      <data key="d1">59</data>
+    </edge>
+    <edge source="neutro" target="rastreio">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="neutro" target="excelente">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="neutro" target="ruim">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="neutro" target="atraso">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="neutro" target="problema">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="neutro" target="transportadora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="neutro" target="incompleto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="neutro" target="reembolso">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="neutro" target="pagamento">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="positivo" target="prazo">
+      <data key="d1">2449</data>
+    </edge>
+    <edge source="positivo" target="entrega">
+      <data key="d1">2580</data>
+    </edge>
+    <edge source="positivo" target="produto">
+      <data key="d1">3815</data>
+    </edge>
+    <edge source="positivo" target="recomendo">
+      <data key="d1">2040</data>
+    </edge>
+    <edge source="positivo" target="vendedor">
+      <data key="d1">138</data>
+    </edge>
+    <edge source="positivo" target="atraso">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="positivo" target="bom">
+      <data key="d1">2071</data>
+    </edge>
+    <edge source="positivo" target="qualidade">
+      <data key="d1">770</data>
+    </edge>
+    <edge source="positivo" target="excelente">
+      <data key="d1">804</data>
+    </edge>
+    <edge source="positivo" target="atendimento">
+      <data key="d1">412</data>
+    </edge>
+    <edge source="positivo" target="problema">
+      <data key="d1">158</data>
+    </edge>
+    <edge source="positivo" target="satisfeito">
+      <data key="d1">471</data>
+    </edge>
+    <edge source="positivo" target="demora">
+      <data key="d1">107</data>
+    </edge>
+    <edge source="positivo" target="nota fiscal">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="positivo" target="frete">
+      <data key="d1">80</data>
+    </edge>
+    <edge source="positivo" target="defeito">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="positivo" target="troca">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="positivo" target="embalagem">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="positivo" target="ruim">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="positivo" target="correio">
+      <data key="d1">126</data>
+    </edge>
+    <edge source="positivo" target="devolucao">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="positivo" target="errado">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="positivo" target="rastreio">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="positivo" target="pagamento">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="positivo" target="transportadora">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="positivo" target="quebrado">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="positivo" target="cancelamento">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="positivo" target="reembolso">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="positivo" target="incompleto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="entrega" target="prazo">
+      <data key="d1">1564</data>
+    </edge>
+    <edge source="entrega" target="produto">
+      <data key="d1">2239</data>
+    </edge>
+    <edge source="entrega" target="recomendo">
+      <data key="d1">636</data>
+    </edge>
+    <edge source="entrega" target="vendedor">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="entrega" target="demora">
+      <data key="d1">179</data>
+    </edge>
+    <edge source="entrega" target="correio">
+      <data key="d1">180</data>
+    </edge>
+    <edge source="entrega" target="bom">
+      <data key="d1">502</data>
+    </edge>
+    <edge source="entrega" target="rastreio">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="entrega" target="nota fiscal">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="entrega" target="qualidade">
+      <data key="d1">297</data>
+    </edge>
+    <edge source="entrega" target="problema">
+      <data key="d1">141</data>
+    </edge>
+    <edge source="entrega" target="excelente">
+      <data key="d1">259</data>
+    </edge>
+    <edge source="entrega" target="satisfeito">
+      <data key="d1">167</data>
+    </edge>
+    <edge source="entrega" target="cancelamento">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="entrega" target="frete">
+      <data key="d1">65</data>
+    </edge>
+    <edge source="entrega" target="atraso">
+      <data key="d1">119</data>
+    </edge>
+    <edge source="entrega" target="atendimento">
+      <data key="d1">129</data>
+    </edge>
+    <edge source="entrega" target="avariado">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="entrega" target="quebrado">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="entrega" target="devolucao">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="entrega" target="troca">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="entrega" target="embalagem">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="entrega" target="ruim">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="entrega" target="defeito">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="entrega" target="errado">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="entrega" target="transportadora">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="entrega" target="incompleto">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="entrega" target="reembolso">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entrega" target="pagamento">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="prazo" target="produto">
+      <data key="d1">1696</data>
+    </edge>
+    <edge source="prazo" target="recomendo">
+      <data key="d1">668</data>
+    </edge>
+    <edge source="prazo" target="vendedor">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="prazo" target="atraso">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="prazo" target="bom">
+      <data key="d1">466</data>
+    </edge>
+    <edge source="prazo" target="qualidade">
+      <data key="d1">270</data>
+    </edge>
+    <edge source="prazo" target="excelente">
+      <data key="d1">218</data>
+    </edge>
+    <edge source="prazo" target="satisfeito">
+      <data key="d1">156</data>
+    </edge>
+    <edge source="prazo" target="atendimento">
+      <data key="d1">106</data>
+    </edge>
+    <edge source="prazo" target="problema">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="prazo" target="demora">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="prazo" target="ruim">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="prazo" target="embalagem">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="prazo" target="quebrado">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="prazo" target="defeito">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="prazo" target="rastreio">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="prazo" target="frete">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="prazo" target="errado">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="prazo" target="cancelamento">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="prazo" target="correio">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="prazo" target="transportadora">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="prazo" target="pagamento">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="prazo" target="incompleto">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="prazo" target="nota fiscal">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="prazo" target="devolucao">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="prazo" target="reembolso">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="prazo" target="troca">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="prazo" target="avariado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atraso" target="bom">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="atraso" target="vendedor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="atraso" target="produto">
+      <data key="d1">105</data>
+    </edge>
+    <edge source="atraso" target="correio">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="atraso" target="problema">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="atraso" target="qualidade">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="devolucao">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="frete">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atraso" target="recomendo">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="atraso" target="reembolso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atraso" target="cancelamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="nota fiscal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="satisfeito">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="atraso" target="demora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="atraso" target="ruim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="rastreio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="transportadora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atraso" target="defeito">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atraso" target="excelente">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atraso" target="embalagem">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="atraso" target="atendimento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="produto" target="recomendo">
+      <data key="d1">1061</data>
+    </edge>
+    <edge source="produto" target="vendedor">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="produto" target="bom">
+      <data key="d1">1018</data>
+    </edge>
+    <edge source="produto" target="qualidade">
+      <data key="d1">759</data>
+    </edge>
+    <edge source="produto" target="frete">
+      <data key="d1">83</data>
+    </edge>
+    <edge source="produto" target="correio">
+      <data key="d1">188</data>
+    </edge>
+    <edge source="produto" target="demora">
+      <data key="d1">137</data>
+    </edge>
+    <edge source="produto" target="excelente">
+      <data key="d1">453</data>
+    </edge>
+    <edge source="produto" target="problema">
+      <data key="d1">176</data>
+    </edge>
+    <edge source="produto" target="rastreio">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="produto" target="troca">
+      <data key="d1">137</data>
+    </edge>
+    <edge source="produto" target="nota fiscal">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="produto" target="satisfeito">
+      <data key="d1">234</data>
+    </edge>
+    <edge source="produto" target="atendimento">
+      <data key="d1">240</data>
+    </edge>
+    <edge source="produto" target="defeito">
+      <data key="d1">111</data>
+    </edge>
+    <edge source="produto" target="devolucao">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="produto" target="errado">
+      <data key="d1">154</data>
+    </edge>
+    <edge source="produto" target="ruim">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="produto" target="cancelamento">
+      <data key="d1">96</data>
+    </edge>
+    <edge source="produto" target="avariado">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="produto" target="quebrado">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="produto" target="embalagem">
+      <data key="d1">114</data>
+    </edge>
+    <edge source="produto" target="incompleto">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="produto" target="reembolso">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="produto" target="transportadora">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="produto" target="pagamento">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="qualidade" target="bom">
+      <data key="d1">270</data>
+    </edge>
+    <edge source="qualidade" target="excelente">
+      <data key="d1">128</data>
+    </edge>
+    <edge source="qualidade" target="recomendo">
+      <data key="d1">230</data>
+    </edge>
+    <edge source="qualidade" target="atendimento">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="qualidade" target="demora">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="qualidade" target="devolucao">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="qualidade" target="problema">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="qualidade" target="satisfeito">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="qualidade" target="vendedor">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="qualidade" target="ruim">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="qualidade" target="errado">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="qualidade" target="embalagem">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="qualidade" target="correio">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="qualidade" target="frete">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="qualidade" target="defeito">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="qualidade" target="troca">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="qualidade" target="nota fiscal">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="qualidade" target="quebrado">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="qualidade" target="transportadora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="defeito" target="correio">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="defeito" target="devolucao">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="defeito" target="bom">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="defeito" target="problema">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="defeito" target="troca">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="defeito" target="recomendo">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="defeito" target="quebrado">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="defeito" target="demora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="defeito" target="satisfeito">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="defeito" target="frete">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="defeito" target="vendedor">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="defeito" target="atendimento">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="defeito" target="cancelamento">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="defeito" target="errado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="defeito" target="excelente">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="defeito" target="ruim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="defeito" target="reembolso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="defeito" target="nota fiscal">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="avariado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="bom">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="embalagem" target="quebrado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="embalagem" target="devolucao">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="embalagem" target="vendedor">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="embalagem" target="nota fiscal">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="embalagem" target="troca">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="embalagem" target="recomendo">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="embalagem" target="demora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="embalagem" target="problema">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="embalagem" target="frete">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="embalagem" target="transportadora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="excelente">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="embalagem" target="atendimento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="embalagem" target="errado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="embalagem" target="satisfeito">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="correio">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="embalagem" target="incompleto">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="embalagem" target="rastreio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="reembolso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="pagamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="embalagem" target="cancelamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="troca" target="atendimento">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="troca" target="devolucao">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="troca" target="errado">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="troca" target="bom">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="troca" target="avariado">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="troca" target="cancelamento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="troca" target="demora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="troca" target="problema">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="troca" target="recomendo">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="troca" target="quebrado">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="troca" target="vendedor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="troca" target="correio">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="troca" target="nota fiscal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="troca" target="incompleto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="troca" target="satisfeito">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="troca" target="excelente">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="troca" target="reembolso">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="troca" target="transportadora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="reembolso" target="cancelamento">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="reembolso" target="devolucao">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="reembolso" target="recomendo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="reembolso" target="errado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reembolso" target="bom">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="reembolso" target="avariado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="reembolso" target="correio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reembolso" target="frete">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reembolso" target="ruim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reembolso" target="demora">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reembolso" target="pagamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reembolso" target="problema">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="reembolso" target="incompleto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atendimento" target="excelente">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="atendimento" target="satisfeito">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="atendimento" target="demora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="atendimento" target="recomendo">
+      <data key="d1">89</data>
+    </edge>
+    <edge source="atendimento" target="devolucao">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="atendimento" target="bom">
+      <data key="d1">106</data>
+    </edge>
+    <edge source="atendimento" target="problema">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="atendimento" target="incompleto">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atendimento" target="cancelamento">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="atendimento" target="errado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="atendimento" target="correio">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="atendimento" target="rastreio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atendimento" target="ruim">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="atendimento" target="quebrado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atendimento" target="nota fiscal">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atendimento" target="pagamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atendimento" target="vendedor">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="atendimento" target="transportadora">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="atendimento" target="frete">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vendedor" target="recomendo">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="vendedor" target="bom">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="vendedor" target="cancelamento">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vendedor" target="frete">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="vendedor" target="ruim">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="vendedor" target="excelente">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="vendedor" target="satisfeito">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vendedor" target="devolucao">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="vendedor" target="quebrado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="vendedor" target="correio">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="vendedor" target="errado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="vendedor" target="rastreio">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="vendedor" target="demora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vendedor" target="problema">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="vendedor" target="pagamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vendedor" target="transportadora">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="frete" target="recomendo">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="frete" target="satisfeito">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="frete" target="bom">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="frete" target="cancelamento">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="frete" target="ruim">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="frete" target="demora">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="frete" target="rastreio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="frete" target="correio">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="frete" target="excelente">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="frete" target="transportadora">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="frete" target="problema">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="frete" target="nota fiscal">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="frete" target="errado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="frete" target="pagamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="frete" target="incompleto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="correio" target="demora">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="correio" target="devolucao">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="correio" target="avariado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="correio" target="quebrado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="correio" target="problema">
+      <data key="d1">62</data>
+    </edge>
+    <edge source="correio" target="bom">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="correio" target="recomendo">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="correio" target="excelente">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="correio" target="transportadora">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="correio" target="cancelamento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="correio" target="nota fiscal">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="correio" target="satisfeito">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="correio" target="errado">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="correio" target="rastreio">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="correio" target="ruim">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="correio" target="incompleto">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="correio" target="pagamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="transportadora" target="excelente">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="transportadora" target="bom">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="transportadora" target="demora">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="transportadora" target="nota fiscal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="transportadora" target="problema">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="transportadora" target="recomendo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="transportadora" target="satisfeito">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="transportadora" target="rastreio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="rastreio" target="recomendo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="rastreio" target="demora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="rastreio" target="excelente">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="rastreio" target="bom">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="rastreio" target="errado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="rastreio" target="ruim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="rastreio" target="problema">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="rastreio" target="nota fiscal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="rastreio" target="satisfeito">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="demora" target="nota fiscal">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="demora" target="recomendo">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="demora" target="bom">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="demora" target="cancelamento">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="demora" target="errado">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="demora" target="problema">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="demora" target="devolucao">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="demora" target="ruim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="demora" target="satisfeito">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="demora" target="pagamento">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="demora" target="quebrado">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="quebrado" target="avariado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="quebrado" target="bom">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="quebrado" target="problema">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="quebrado" target="ruim">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="quebrado" target="recomendo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="quebrado" target="devolucao">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="quebrado" target="errado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="avariado" target="cancelamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="avariado" target="recomendo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="avariado" target="satisfeito">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="errado" target="ruim">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="errado" target="cancelamento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="errado" target="bom">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="errado" target="problema">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="errado" target="satisfeito">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="errado" target="recomendo">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="errado" target="excelente">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="errado" target="nota fiscal">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="errado" target="incompleto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="errado" target="devolucao">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="errado" target="pagamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="incompleto" target="nota fiscal">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="incompleto" target="devolucao">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="incompleto" target="bom">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="incompleto" target="recomendo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="incompleto" target="pagamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="recomendo" target="excelente">
+      <data key="d1">192</data>
+    </edge>
+    <edge source="recomendo" target="bom">
+      <data key="d1">383</data>
+    </edge>
+    <edge source="recomendo" target="nota fiscal">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="recomendo" target="satisfeito">
+      <data key="d1">90</data>
+    </edge>
+    <edge source="recomendo" target="problema">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="recomendo" target="ruim">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="recomendo" target="devolucao">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="recomendo" target="pagamento">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="recomendo" target="cancelamento">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="excelente" target="bom">
+      <data key="d1">107</data>
+    </edge>
+    <edge source="excelente" target="satisfeito">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="excelente" target="problema">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="excelente" target="nota fiscal">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="excelente" target="pagamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="bom" target="problema">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="bom" target="ruim">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="bom" target="satisfeito">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="bom" target="nota fiscal">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="bom" target="cancelamento">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="bom" target="pagamento">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="bom" target="devolucao">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ruim" target="nota fiscal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ruim" target="devolucao">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ruim" target="problema">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ruim" target="cancelamento">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ruim" target="pagamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="satisfeito" target="cancelamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="satisfeito" target="devolucao">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="satisfeito" target="problema">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="satisfeito" target="nota fiscal">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="problema" target="devolucao">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="problema" target="cancelamento">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="problema" target="nota fiscal">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="problema" target="pagamento">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="cancelamento" target="devolucao">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="cancelamento" target="pagamento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="cancelamento" target="nota fiscal">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="devolucao" target="pagamento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nota fiscal" target="pagamento">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

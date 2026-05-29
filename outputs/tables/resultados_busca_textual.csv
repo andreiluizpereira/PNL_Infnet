@@ -1,0 +1,16 @@
+consulta_original,consulta_processada,review_score,sentimento,texto,score
+entrega atrasada,entregar atrasar,1,negativo,Entrega atrasada.,1.0000000000000002
+entrega atrasada,entregar atrasar,1,negativo,entrega muito atrasada.,1.0000000000000002
+entrega atrasada,entregar atrasar,1,negativo,Entrega atrasada Ainda não recebi o produto...,0.833038803428549
+entrega atrasada,entregar atrasar,1,negativo,Entrega atrasada Estou aguardando a entrega que já esta atrasada,0.7332758035856539
+entrega atrasada,entregar atrasar,1,negativo,entrega atrasada o prazo terminou e nao recebi meu produto,0.6791765526572662
+produto chegou quebrado,chegar quebrar,1,negativo,chegou quebrado,1.0
+produto chegou quebrado,chegar quebrar,1,negativo,O produto chegou quebrado.,1.0
+produto chegou quebrado,chegar quebrar,1,negativo,O produto chegou quebrado,1.0
+produto chegou quebrado,chegar quebrar,1,negativo,o produto chegou quebrado. estou aguardando contato da loja.,0.7049354041730251
+produto chegou quebrado,chegar quebrar,1,negativo,Produto quebrado Produto quebrado,0.5702144798532962
+recebi antes do prazo,recebi antes prazo,5,positivo,Recebi antes do prazo.,1.0
+recebi antes do prazo,recebi antes prazo,5,positivo,Recebi antes do prazo,1.0
+recebi antes do prazo,recebi antes prazo,5,positivo,Recebi antes do prazo,1.0
+recebi antes do prazo,recebi antes prazo,4,positivo,Recebi antes do prazo....,1.0
+recebi antes do prazo,recebi antes prazo,3,neutro,Recebi antes do prazo.,1.0
